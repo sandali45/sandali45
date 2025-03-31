@@ -17,11 +17,11 @@ I am an aspiring Computer Scientist with a strong passion for algorithm optimiza
 
 <h3>Languages:</h3>
  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,php,bootstrap,c,dart,java,mysql,py,dotnet)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,c,dart,java,mysql,py,dotnet)](https://skillicons.dev)
     
 <h3>Tools & Platforms:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,visualstudio,pycharm,postman,notion,flutter,discord,blender,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,discord,blender,)](https://skillicons.dev)
 
 
 ### 📊 GitHub Stats
