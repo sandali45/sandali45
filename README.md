@@ -24,7 +24,7 @@ I am an aspiring Computer Scientist with a strong passion for algorithm optimiza
 [![My Skills](https://skillicons.dev/icons?i=js,vscode,visualstudio,pycharm,postman,notion,flutter,discord,blender,)](https://skillicons.dev)
 
 
-##📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandali45&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandali45&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150px"/>
