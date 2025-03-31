@@ -16,7 +16,9 @@ I am an aspiring Computer Scientist with a strong passion for algorithm optimiza
 -💡 Committed to leveraging coding as a powerful tool to solve real-world challenges and drive positive change.
 
 <h3>Languages:</h3>
+ 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,php,bootstrap,c,dart,java,mysql,py,dotnet)](https://skillicons.dev)
     
 <h3>Tools & Platforms:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,vscode,visualstudio,pycharm,postman,notion,flutter,discord,blender,)](https://skillicons.dev)
