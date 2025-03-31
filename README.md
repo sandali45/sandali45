@@ -31,12 +31,6 @@ I am an aspiring Computer Scientist with a strong passion for algorithm optimiza
   </div>
 <br>
 
-<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true&row=2&column=3" alt="lkotlarenko Profile Trophies" />
-  </a>
-</div>
-</br>
+
 
 
