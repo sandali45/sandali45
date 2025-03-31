@@ -15,8 +15,16 @@ I am an aspiring Computer Scientist with a strong passion for algorithm optimiza
 -📚 Passionate about continuous learning, I enjoy reading books and manhwa, listening to music, drawing, and watching movies or anime.
 -💡 Committed to leveraging coding as a powerful tool to solve real-world challenges and drive positive change.
 
-##Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,php,bootstrap,c,dart,java,mysql,py,dotnet)](https://skillicons.dev)
+<h3>Languages:</h3>
+  </br>
+  <div align="center">
+    <a href="https://skillicons.dev">
+     [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,php,bootstrap,c,dart,java,mysql,py,dotnet)](https://skillicons.dev)
+    </a>
+  </div>
+  </br>
+</section>
+
 
 ##Tools & Platforms:
 [![My Skills](https://skillicons.dev/icons?i=js,vscode,visualstudio,pycharm,postman,notion,flutter,discord,blender,)](https://skillicons.dev)
