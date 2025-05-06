@@ -32,11 +32,7 @@ I am an aspiring Computer Scientist with a strong passion for algorithm optimiza
 
 ---
 
-### 🔥 Streak Stats  
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sandali45&theme=dark&hide_border=true" />
-</p>
 
 
 
