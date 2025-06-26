@@ -7,12 +7,14 @@
 </header>
 <section align="left">
 
-I am an aspiring Computer Scientist with a strong passion for algorithm optimization, data structures, and theoretical computing. I enjoy building practical, efficient, and scalable applications while continually exploring advanced concepts in computer science. My projects span multiple domains, including backend development, algorithms, and web development.
 
-## About me
-- 🌱 Currently exploring emerging technologies, including Artificial Intelligence and Game Development to expand my expertise.
-- 💻 Proficient in Java, Python, HTML, CSS, JavaScript, SQL, Dart, C#, and ASP.NET, with experience in both backend and frontend development.
-- 💡 Committed to leveraging coding as a powerful tool to solve real-world challenges and drive positive change.
+I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing. I love building practical, efficient, and scalable applications while exploring advanced CS concepts.
+
+### About Me  
+🌱 Currently diving into emerging tech like Artificial Intelligence and Game Development to level up my skills.  
+💻 Proficient in Java, Python, HTML, CSS, JavaScript, SQL, Dart, C#, and ASP.NET, with hands-on experience in backend and frontend development.  
+💡 Driven by the belief that coding can solve real-world problems and create positive impact.
+
 
 <h3>Languages:</h3>
  
