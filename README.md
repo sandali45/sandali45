@@ -22,7 +22,7 @@ I’m an aspiring Computer Scientist passionate about algorithm optimization, da
     
 <h3>Tools & Platforms:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,discord,blender,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,blender,)](https://skillicons.dev)
 
 
 
