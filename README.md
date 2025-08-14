@@ -43,7 +43,7 @@ Spring Boot web application with drag-and-drop editor for creating customizable 
 <br>
 💡 Driven by the belief that coding can solve real-world problems and create positive impact.
 <br>
-💚<strong>Hobbies:</strong> 🎙️ Podcasts | 📺 Anime | 📚 Webtoons | 🎨 Drawing | 📖 Reading
+💚 <strong>Hobbies:</strong> 🎙️ Podcasts | 📺 Anime | 📚 Webtoons | 🎨 Drawing | 📖 Reading
 
 <h3>🖥 Languages </h3>
  
