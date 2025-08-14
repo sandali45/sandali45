@@ -16,9 +16,6 @@
 
 <h3>🌐 Quick Links</h3>
 <p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8FD694?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="www.linkedin.com/in/imalsha-sandali-1a6187326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6BA368?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
