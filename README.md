@@ -7,7 +7,12 @@
 </header>
 <section align="left">
 
-I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing. I love building practical, efficient, and scalable applications while exploring advanced CS concepts.
+<section align="left">
+  <p><strong>
+    I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing.  
+    I love building practical, efficient, and scalable applications while exploring advanced CS concepts.
+  </strong></p>
+</section>
 
 
 ### About Me  
@@ -24,9 +29,7 @@ I’m an aspiring Computer Scientist passionate about algorithm optimization, da
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,blender,)](https://skillicons.dev)
 
-### 📊 GitHub Stats
-![Love's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandali45&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandali45&layout=compact&theme=tokyonight)
+
 
 
 
