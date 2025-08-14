@@ -7,8 +7,8 @@
 </header>
 <section align="left">
 
+<body><b>I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing. I love building practical, efficient, and scalable applications while exploring advanced CS concepts.<b></body>
 
-<b>I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing. I love building practical, efficient, and scalable applications while exploring advanced CS concepts.<b>
 
 ### About Me  
 🌱 Currently diving into emerging tech like Artificial Intelligence and Game Development to level up my skills.  
