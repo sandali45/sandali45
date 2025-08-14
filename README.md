@@ -17,10 +17,10 @@
 <h3>🌐 Quick Links</h3>
 <p align="center">
   <a href="www.linkedin.com/in/imalsha-sandali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6BA368?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-CAE8BD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ishisnaynathara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4E6C50?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D0E8C5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -52,8 +52,15 @@ Spring Boot web application with drag-and-drop editor for creating customizable 
 
 <h3>📊 Stats & Stacks</h3> 
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandali45&theme=github_dark) 
-![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandali45&theme=github_dark)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandali45&theme=github_dark" />
+  <img src="https://m.media-amazon.com/images/I/71lU8eV8KqL._AC_SY679_.jpg" style="height: 150px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandali45&theme=github_dark" />
+</div>
+
+
+
+
 
 
 
