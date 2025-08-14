@@ -9,7 +9,7 @@
 
 I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing. I love building practical, efficient, and scalable applications while exploring advanced CS concepts.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gotham_icons=true)
+
 ### About Me  
 🌱 Currently diving into emerging tech like Artificial Intelligence and Game Development to level up my skills.  
 💻 Proficient in Java, Python, HTML, CSS, JavaScript, SQL, Dart, C#, and ASP.NET, with hands-on experience in backend and frontend development.  
@@ -24,6 +24,7 @@ I’m an aspiring Computer Scientist passionate about algorithm optimization, da
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,blender,)](https://skillicons.dev)
 
+![Sandali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandali45&theme=gotham_icons=true)
 
 
 
