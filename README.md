@@ -54,7 +54,7 @@ Spring Boot web application with drag-and-drop editor for creating customizable 
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandali45&theme=github_dark" />
-  <img src="chib.jpg" style="height: 150px;" />
+  <img src="chibi.jpg" style="height: 150px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandali45&theme=github_dark" />
 </div>
 
