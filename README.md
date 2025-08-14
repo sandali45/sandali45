@@ -5,15 +5,14 @@
 <header>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=C7F7C2&width=500&lines=H+E+L+L+O+!+" alt="Typing SVG" /></a>
 </header>
-<section align="left">
 
-<section align="left">
+
   <p><strong>
     I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing.  
     I love building practical, efficient, and scalable applications while exploring advanced CS concepts.
   </strong></p>
-</section>
-<h2 align="center">🔗 Quick Links</h2>
+
+
 
 <h2>🌐 Quick Links</h2>
 
