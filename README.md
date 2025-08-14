@@ -16,7 +16,7 @@
 
 <h3>🌐 Quick Links</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/imalsha-sandali-1a6187326" target="_blank">
+  <a href="www.linkedin.com/in/imalsha-sandali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6BA368?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ishisnaynathara@gmail.com">
@@ -28,7 +28,7 @@
 <a href="https://github.com/sandali45/PastelPages" target="_blank">
   <img src="https://img.shields.io/badge/%20Project-c8e1cc?style=for-the-badge&logo=github&logoColor=white" alt="PROJECT"/>
 </a>
-
+no
 <p>
   <strong>PastelPages Digital Scrapbook</strong>
 Spring Boot web application with drag-and-drop editor for creating customizable digital scrapbooks. Features image uploads, sticker placement, and persistent storage using H2 database.
