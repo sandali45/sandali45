@@ -13,7 +13,22 @@
     I love building practical, efficient, and scalable applications while exploring advanced CS concepts.
   </strong></p>
 </section>
+<h2 align="center">🔗 Quick Links</h2>
 
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFE5EC?style=for-the-badge&logo=firefox&logoColor=4B4453" alt="Portfolio"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-E0F7FA?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EDE7F6?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
+  </a>
+</p>
 
 ### About Me  
 🌱 Currently diving into emerging tech like Artificial Intelligence and Game Development to level up my skills.  
