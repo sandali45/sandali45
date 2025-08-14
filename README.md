@@ -3,12 +3,12 @@
   <meta name="google-site-verification" content="l50Ld6b6I62IgntsSoqWSoLY-4Ywhf37ak-KfF95uTA" />
 </head>
 <header>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=C7F7C2&width=500&lines=H+E+L+L+O+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=C7F7C2&width=500&lines=H+E+L+L+O+!+" alt="Typing SVG" /></a>
 </header>
 <section align="left">
 
 
-I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing. I love building practical, efficient, and scalable applications while exploring advanced CS concepts.
+<b>I’m an aspiring Computer Scientist passionate about algorithm optimization, data structures, and theoretical computing. I love building practical, efficient, and scalable applications while exploring advanced CS concepts.<b>
 
 ### About Me  
 🌱 Currently diving into emerging tech like Artificial Intelligence and Game Development to level up my skills.  
