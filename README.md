@@ -42,13 +42,14 @@ Spring Boot web application with drag-and-drop editor for creating customizable 
 <br>
 💚 <strong>Hobbies:</strong> 🎙️ Podcasts | 📺 Anime | 📚 Webtoons | 🎨 Drawing | 📖 Reading
 
-<h3>🖥 Languages </h3>
- 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,c,dart,java,mysql,py,dotnet)](https://skillicons.dev)
-    
-<h3> ⚙ Tools & Platforms </h3>
+<h3>🖥 Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,blender,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,c,dart,java,mysql,py,dotnet)](https://skillicons.dev)
+
+### ⚙ Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,blender)](https://skillicons.dev)
+
 
 <h3>📊 Stats & Stacks</h3> 
 
