@@ -51,13 +51,20 @@ Spring Boot web application with drag-and-drop editor for creating customizable 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,blender)](https://skillicons.dev)
 
 
+
 <h3>📊 Stats & Stacks</h3> 
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandali45&theme=github_dark" />
+<div style="display: flex; align-items: center; gap: 10px; background: transparent;">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandali45&theme=transparent" />
+  
+
   <img src="chibi.png" style="height: 150px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandali45&theme=github_dark" />
+  
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandali45&theme=transparent" />
 </div>
+
 
 
 
