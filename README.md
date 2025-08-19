@@ -46,7 +46,7 @@ Spring Boot web application with drag-and-drop editor for creating customizable 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,c,dart,java,mysql,py,dotnet)](https://skillicons.dev)
 
-### ⚙ Tools & Platforms
+<h3>⚙ Tools & Platforms</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,notion,flutter,blender)](https://skillicons.dev)
 
